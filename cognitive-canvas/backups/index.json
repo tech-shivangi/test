@@ -5,7 +5,7 @@
     "branch": "main"
   },
   "indexKind": "cognitive-canvas-backup-index",
-  "updatedAt": "2026-07-12T15:59:36.931Z",
+  "updatedAt": "2026-07-12T16:03:48.126Z",
   "backups": [
     {
       "name": "cc-backup-2026-07-10_03-27-38.zip",
@@ -19,8 +19,16 @@
       "name": "cc-backup-2026-07-12_21-29-30.zip",
       "path": "cognitive-canvas/backups/data/cc-backup-2026-07-12_21-29-30.json",
       "createdAt": "2026-07-12T15:59:30.222Z"
+    },
+    {
+      "name": "cc-backup-2026-07-12_21-32-47.zip",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-12_21-32-47/manifest.json",
+      "createdAt": "2026-07-12T16:02:47.132Z",
+      "format": "chunked",
+      "totalSize": 60717982,
+      "totalChunks": 4
     }
   ],
   "_kind": "browser-payload",
-  "_savedAt": "2026-07-12T15:59:36.936Z"
+  "_savedAt": "2026-07-12T16:03:48.131Z"
 }
