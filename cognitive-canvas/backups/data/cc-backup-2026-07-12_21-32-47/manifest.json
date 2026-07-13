@@ -1,0 +1,17 @@
+{
+  "git": {
+    "owner": "tech-shivangi",
+    "repo": "test",
+    "branch": "main"
+  },
+  "backupKind": "cognitive-canvas-chunked",
+  "backupVersion": 2,
+  "format": "chunked",
+  "backupId": "cc-backup-2026-07-12_21-32-47",
+  "name": "cc-backup-2026-07-12_21-32-47.zip",
+  "totalChunks": 4,
+  "totalSize": 60717982,
+  "createdAt": "2026-07-12T16:02:47.132Z",
+  "_kind": "browser-payload",
+  "_savedAt": "2026-07-12T16:03:42.196Z"
+}
