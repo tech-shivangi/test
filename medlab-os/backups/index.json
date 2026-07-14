@@ -1,0 +1,18 @@
+{
+  "git": {
+    "owner": "tech-shivangi",
+    "repo": "test",
+    "branch": "main"
+  },
+  "indexKind": "medlab-os-backup-index",
+  "updatedAt": "2026-07-13T17:46:45.017Z",
+  "backups": [
+    {
+      "name": "MedLab_Backup_2026-07-13T17-46-42-581Z.zip",
+      "path": "medlab-os/backups/data/MedLab_Backup_2026-07-13T17-46-42-581Z.json",
+      "createdAt": "2026-07-13T17:46:42.582Z"
+    }
+  ],
+  "_kind": "browser-payload",
+  "_savedAt": "2026-07-13T17:46:45.019Z"
+}
