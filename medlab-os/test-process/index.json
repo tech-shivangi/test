@@ -1,0 +1,12 @@
+{
+  "git": {
+    "owner": "tech-shivangi",
+    "repo": "test",
+    "branch": "main"
+  },
+  "backupKind": "medlab-os-raw-json",
+  "backupVersion": 1,
+  "zipBase64": "ewogICJpbmRleEtpbmQiOiAibWVkbGFiLW9zLXRlc3QtcHJvY2Vzcy1pbmRleCIsCiAgInVwZGF0ZWRBdCI6ICIyMDI2LTA3LTE0VDAwOjAxOjM4LjQxN1oiLAogICJlbnRyaWVzIjogWwogICAgewogICAgICAiYXBwb2ludG1lbnRJZCI6IDgsCiAgICAgICJwYXRoIjogIm1lZGxhYi1vcy90ZXN0LXByb2Nlc3MvYXBwdC04Lmpzb24iLAogICAgICAicGF0aWVudE5hbWUiOiAiQWFyYXYgU2hhcm1hIiwKICAgICAgInN0YXJ0IjogIjIwMjYtMDctMTZUMDA6MzA6MDAuMDAwWiIsCiAgICAgICJjb2xsZWN0ZWRBdCI6ICIyMDI2LTA3LTE0VDAwOjAxOjM3LjcwMVoiLAogICAgICAic3RhZ2UiOiAiaW4tdHJhbnNpdCIKICAgIH0KICBdCn0=",
+  "_kind": "browser-payload",
+  "_savedAt": "2026-07-14T00:01:38.422Z"
+}
