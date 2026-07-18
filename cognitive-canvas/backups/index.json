@@ -1,24 +1,22 @@
 {
-  "git": {
-    "owner": "tech-shivangi",
-    "repo": "test",
-    "branch": "main"
-  },
   "indexKind": "cognitive-canvas-backup-index",
-  "updatedAt": "2026-07-12T16:11:28.741Z",
+  "updatedAt": "2026-07-18T10:36:59.801Z",
   "backups": [
     {
-      "name": "cc-backup-2026-07-10_03-27-38.zip",
-      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-10_03-27-38/manifest.json",
-      "createdAt": "2026-07-09T21:57:38.640Z",
-      "format": "chunked",
-      "totalSize": 68664947,
-      "totalChunks": 5
+      "name": "cc-backup-2026-07-18_16-06-50.zip",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-18_16-06-50.zip",
+      "createdAt": "2026-07-18T10:36:59.801Z",
+      "format": "release",
+      "assetId": 481379345,
+      "totalSize": 62565015
     },
     {
-      "name": "cc-backup-2026-07-12_21-29-30.zip",
-      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-12_21-29-30.json",
-      "createdAt": "2026-07-12T15:59:30.222Z"
+      "name": "cc-backup-2026-07-12_21-40-21.zip",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-12_21-40-21/manifest.json",
+      "createdAt": "2026-07-12T16:10:21.718Z",
+      "format": "chunked",
+      "totalSize": 63328116,
+      "totalChunks": 5
     },
     {
       "name": "cc-backup-2026-07-12_21-32-47.zip",
@@ -29,14 +27,17 @@
       "totalChunks": 4
     },
     {
-      "name": "cc-backup-2026-07-12_21-40-21.zip",
-      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-12_21-40-21/manifest.json",
-      "createdAt": "2026-07-12T16:10:21.718Z",
+      "name": "cc-backup-2026-07-12_21-29-30.zip",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-12_21-29-30.json",
+      "createdAt": "2026-07-12T15:59:30.222Z"
+    },
+    {
+      "name": "cc-backup-2026-07-10_03-27-38.zip",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-10_03-27-38/manifest.json",
+      "createdAt": "2026-07-09T21:57:38.640Z",
       "format": "chunked",
-      "totalSize": 63328116,
+      "totalSize": 68664947,
       "totalChunks": 5
     }
-  ],
-  "_kind": "browser-payload",
-  "_savedAt": "2026-07-12T16:11:28.750Z"
+  ]
 }
