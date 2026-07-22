@@ -1,16 +1,24 @@
 {
-  "git": {
-    "owner": "ShivangiYadav2005",
-    "repo": "test",
-    "branch": "main"
-  },
-  "owner": "ShivangiYadav2005",
-  "repo": "test",
-  "repository": "test",
-  "branch": "main",
   "indexKind": "cognitive-canvas-backup-index",
-  "updatedAt": "2026-07-22T05:19:23.408Z",
+  "updatedAt": "2026-07-22T05:21:53.493Z",
   "backups": [
+    {
+      "name": "cc-backup-2026-07-22_10-51-52.zip",
+      "assetName": "cc-backup-2026-07-22_10-51-52.zip",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-22_10-51-52.zip",
+      "createdAt": "2026-07-22T05:21:53.493Z",
+      "format": "release",
+      "storage": "release",
+      "releaseTag": "cognitive-canvas-backups",
+      "assetId": 485546933,
+      "totalSize": 2993791,
+      "size": 2993791
+    },
+    {
+      "name": "cc-backup-2026-07-22_10-48-57.zip",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-22_10-48-57.json",
+      "createdAt": "2026-07-22T05:18:57.876Z"
+    },
     {
       "name": "cc-backup-2026-07-22_10-47-45.zip",
       "assetName": "cc-backup-2026-07-22_10-47-45.zip",
@@ -90,29 +98,6 @@
       "format": "release",
       "assetId": 481379345,
       "totalSize": 62565015
-    },
-    {
-      "name": "cc-backup-2026-07-12_21-40-21.zip",
-      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-12_21-40-21/manifest.json",
-      "createdAt": "2026-07-12T16:10:21.718Z",
-      "format": "chunked",
-      "totalSize": 63328116,
-      "totalChunks": 5
-    },
-    {
-      "name": "cc-backup-2026-07-12_21-32-47.zip",
-      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-12_21-32-47/manifest.json",
-      "createdAt": "2026-07-12T16:02:47.132Z",
-      "format": "chunked",
-      "totalSize": 60717982,
-      "totalChunks": 4
-    },
-    {
-      "name": "cc-backup-2026-07-22_10-48-57.zip",
-      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-22_10-48-57.json",
-      "createdAt": "2026-07-22T05:18:57.876Z"
     }
-  ],
-  "_kind": "browser-payload",
-  "_savedAt": "2026-07-22T05:19:23.421Z"
+  ]
 }
