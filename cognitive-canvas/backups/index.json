@@ -1,7 +1,19 @@
 {
   "indexKind": "cognitive-canvas-backup-index",
-  "updatedAt": "2026-07-22T05:21:53.493Z",
+  "updatedAt": "2026-07-22T05:22:57.487Z",
   "backups": [
+    {
+      "name": "cc-backup-2026-07-22_10-52-47.zip",
+      "assetName": "cc-backup-2026-07-22_10-52-47.zip",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-22_10-52-47.zip",
+      "createdAt": "2026-07-22T05:22:57.487Z",
+      "format": "release",
+      "storage": "release",
+      "releaseTag": "cognitive-canvas-backups",
+      "assetId": 485547867,
+      "totalSize": 4384600,
+      "size": 4384600
+    },
     {
       "name": "cc-backup-2026-07-22_10-51-52.zip",
       "assetName": "cc-backup-2026-07-22_10-51-52.zip",
@@ -90,14 +102,6 @@
       "format": "release",
       "assetId": 484282062,
       "totalSize": 1511272
-    },
-    {
-      "name": "cc-backup-2026-07-18_16-06-50.zip",
-      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-18_16-06-50.zip",
-      "createdAt": "2026-07-18T10:36:59.801Z",
-      "format": "release",
-      "assetId": 481379345,
-      "totalSize": 62565015
     }
   ]
 }
